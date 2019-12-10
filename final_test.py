@@ -1,4 +1,5 @@
 import unittest
+from final.py import *
 
 #Finish if you can... stop crying
 class TestFlora(unittest.TestCase):
@@ -16,12 +17,19 @@ class TestFlora(unittest.TestCase):
         self.assertFalse(wf == baseurl + '/research/botany/wildflow/color.asp?c=' + color)
         self.assertFalse(page_soup2 == requests.get(white_wf, headers=header).text)
 
+    def test_databases(self):
+        """
+        Test data
+        """
+        self.assertTrue(color_ID == ['Color', 'Common Name', 'Family Name', 'Latin Name', 'Description'])
+        self.assertTrue(writer == csv.writer(f))
 
+        
     def test_db(self):
         """
         Test DB
         """
-        self.assertEqual(DBNAME == 'Floral.db')
+        self.assertEqual(DBNAME is 'Floral.db')
 
 if __name__ == '__main__':
     unittest.main()
