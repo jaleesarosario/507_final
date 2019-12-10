@@ -1,5 +1,5 @@
 import unittest
-from final.py import *
+from final import *
 
 #Finish if you can... stop crying
 class TestFlora(unittest.TestCase):
