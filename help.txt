@@ -1,0 +1,19 @@
+Welcome to the California Academy of Sciences Floral Database!
+
+First...
+Did you catch those floral visuals? They should have launched within your browser - go check them out!
+
+Second...
+You are able to search the database by COLOR which will first bring back the amount of flowers within the database. Then you can combine the color with an additional command to gather further details.
+
+Colors: [white, yellow, orange, brown, red, pink, magenta, lavender, purple, or  blue]
+
+Single Commands:
+	color : returns the amount of flowers in the database with that color
+	help : returns THIS list
+	exit : leaves program
+
+Follow-up Commands:
+	color + [common, family, Latin, or  description] - returns a list of the
+
+Enjoy the search!
