@@ -14,6 +14,6 @@ Single Commands:
 	exit : leaves program
 
 Follow-up Commands:
-	color + [common, family, Latin, or  description] - returns a list of the
+	color + [common, family, Latin, or  description] - returns a list of the queried data 
 
 Enjoy the search!
