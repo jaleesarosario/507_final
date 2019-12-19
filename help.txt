@@ -6,14 +6,14 @@ Did you catch those floral visuals? They should have launched within your browse
 Second...
 You are able to search the database by COLOR which will first bring back the amount of flowers within the database. Then you can combine the color with an additional command to gather further details.
 
-Colors: [white, yellow, orange, brown, red, pink, magenta, lavender, purple, or  blue]
+Colors: [white, yellow, orange, brown, red, pink, magenta, lavender, purple, or blue]
 
 Single Commands:
-	color : returns the amount of flowers in the database with that color
-	help : returns THIS list
-	exit : leaves program
+	color : Returns the amount of flowers in the database with that color
+	help : Returns THIS list
+	exit : Leaves program
 
 Follow-up Commands:
-	color + [common, family, Latin, or  description] - returns a list of the queried data 
+	color + [common, family, latin, or  description] - returns a list of the
 
 Enjoy the search!
